@@ -1,0 +1,1 @@
+int DoWork (int seconds);
